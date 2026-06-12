@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Samish.png" width="150" style="border-radius:50%;" />
+<img src="./Samish.png.jpeg" width="150" style="border-radius:50%;" />
 
 # Hey there! 👋 I'm Samish Kaushal
 
