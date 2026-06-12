@@ -1,42 +1,60 @@
 <div align="center">
 
-<img src="./samish.png" width="180" style="border-radius:50%;" />
+<img src="./Samish.png" width="150" style="border-radius:50%;" />
 
-# Hi 👋, I'm Samish Kaushal
+# Hey there! 👋 I'm Samish Kaushal
 
-### 🎓 B.Voc Software Development Student | Frontend Developer
+### 🚀 Frontend Developer | B.Voc Software Development (3rd Year)
 
-I'm a passionate Frontend Developer and currently pursuing B.Voc (Software Development), 3rd Year. I enjoy building responsive and user-friendly websites using HTML, CSS, and JavaScript.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+Cool+Web+Stuff;Always+Learning+New+Things" alt="Typing SVG" />
 
-🚀 Currently working on web development projects  
-📚 Learning Advanced JavaScript and Modern Web Technologies  
-💡 Interested in Frontend Development, UI/UX Design, and Problem Solving  
-🎯 Goal: To become a skilled Full Stack Developer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 💡 About Me
 
-💻 HTML5  
-🎨 CSS3  
-⚡ JavaScript  
-🔧 Git & GitHub  
-🖥️ VS Code
+I'm a frontend dev who loves turning ideas into clean, responsive websites. Currently sharpening my skills in JavaScript and exploring the React ecosystem — one bug fix at a time 🐛➡️✨
 
----
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript
-- Responsive Web Design
-- React.js
-- Git & GitHub Best Practices
+- 🔭 Currently building: Web Development Projects
+- 🌱 Learning: Advanced JS, React.js, Modern Frontend Tools
+- 🎯 Goal: Full Stack Developer
+- ⚡ Fun fact: I debug better with chai ☕
 
 ---
 
-## 📫 Connect With Me`
+### 🛠️ Tech Arsenal
 
-- 📧 Email: samishkaushal26@gmail.com
-- 💼 LinkedIn: [samish_kaushal](https://www.linkedin.com/in/samish_kaushal)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samishkaushal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samishkaushal&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:samishkaushal26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samish_kaushal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+⭐️ *"Code is like humor. When you have to explain it, it's bad."*
+
+</div>
