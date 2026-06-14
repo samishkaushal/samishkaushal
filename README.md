@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="300">
+<td width="200">
 <img src="./Samish.png.jpeg" width="500" style="border-radius:50%; border: 3px solid #00C9FF; background-color:black; padding:8px;" />
 </td>
 <td align="left">
