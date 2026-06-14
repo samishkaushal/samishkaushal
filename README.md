@@ -1,18 +1,9 @@
-<table>
-<tr>
-<td width="200">
-<img src="./Samish.png.jpeg" width="500" style="border-radius:50%; border: 3px solid #00C9FF; background-color:black; padding:8px;" />
-</td>
-<td align="left">
+<div align="center">
 
 # Hey there! 👋 I'm Samish Kaushal
 ### 🚀 Frontend Developer | B.Voc Software Development (3rd Year)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+Cool+Web+Stuff;Always+Learning+New+Things" alt="Typing SVG" />
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+Cool+Web+Stuff;Always+Learning+New+Things" alt="Typing SVG" style="max-width: 100%;" />
 
 <p align="center">
   <a href="mailto:samishkaushal26@gmail.com">
@@ -22,6 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 <br/>
 
@@ -35,12 +28,15 @@ I'm a frontend dev who loves turning ideas into clean, responsive websites. Curr
 - ⚡ **Fun fact:** I debug better with chai ☕
 
 <br/>
-<h4>## 📫 Connect With Me </h4>
+
+#### 📫 Connect With Me
 
 - 📧 Email: samishkaushal26@gmail.com
 - 💼 LinkedIn: [samish_kaushal](https://www.linkedin.com/in/samish_kaushal)
+
 <br>
-<h4>## 🛠️ Tech Arsenal</h4>
+
+#### 🛠️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,figma,tailwind" />
